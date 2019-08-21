@@ -18,6 +18,10 @@ header,
   -webkit-text-stroke-color: black;
 }
 
+.worldartimage {
+  height: 400px;
+  width: 400px;
+}
 
 .link-color {
   color: black;
